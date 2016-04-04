@@ -1,0 +1,28 @@
+name: FORSBERGH
+favicon: null
+layout_spectrum: 0.5775022904854268
+typography_spectrum: 0.40349291218444705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.05039503471925855
+  lightness: 0.5439398989547044
+  saturation: 0.07273024041205645
+  rhythmicContrast: 0.35235233628191054
+purpose: []
